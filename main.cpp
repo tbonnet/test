@@ -22,6 +22,7 @@ using namespace std;
 int main(int argc, char** argv) {
     
     cout<<"test1";
+    cout<<"2eme cout";
 
     return 0;
 }
