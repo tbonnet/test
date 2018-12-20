@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     
     cout<<"test1";
     cout<<"2eme cout";
+    cout<<"oh djadja ya pas moyen oh djadja";
 
     return 0;
 }
